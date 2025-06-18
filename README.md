@@ -37,3 +37,7 @@ Screenshot outputs of the result tables for each join type.
 
 Sample tables with inserted data for demonstration purposes.
 
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/bd4b46ee-5fbe-4f69-a620-5b6aa01724ef)
